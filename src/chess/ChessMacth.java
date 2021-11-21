@@ -5,4 +5,6 @@ public class ChessMacth {
 	
 	// Handling captured pieces
 	//Check logic
+	
+	//Checkmate logic
 }
