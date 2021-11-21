@@ -11,4 +11,6 @@ public class ChessMacth {
 	//Piece move count
 	
 	//Special move - Promotion
+	
+	//Fix - better treatment to promotion 
 }
