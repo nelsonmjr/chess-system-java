@@ -7,4 +7,6 @@ public class ChessMacth {
 	//Check logic
 	
 	//Checkmate logic
+	
+	//Piece move count
 }
