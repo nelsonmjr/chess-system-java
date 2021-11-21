@@ -9,4 +9,6 @@ public class ChessMacth {
 	//Checkmate logic
 	
 	//Piece move count
+	
+	//Special move - Promotion
 }
